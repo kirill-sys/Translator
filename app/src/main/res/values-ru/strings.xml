@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="action_delete">Очистить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="auto_detect_language">Определять язык автоматически</string>
+    <string name="description_of_add_to_fav_btn">Добавить в избранное</string>
+    <string name="description_of_copy_translated_text_btn">Скопировать переведенный текст</string>
+    <string name="instant_translation">Мгновенный перевод</string>
+    <string name="title_favorite">Избранное</string>
+    <string name="title_history">История</string>
+    <string name="title_translator">Перводчик</string>
+    <string name="translate_hint">Введите текст</string>
+</resources>
